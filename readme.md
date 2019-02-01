@@ -11,6 +11,7 @@
 - [Clipger](https://florian.github.io/clipgerapp/) Ultimate clipboard manager! Thank you Florian!
 - [Forklift](https://binarynights.com) Advanced dual pane file manager. (There's no time limit in trial mode!) Thank you BinaryNights!
 - [EasyFind](https://www.devontechnologies.com/products/freeware.html) Find any file easily, even on a server! Beware it's fast! Thank you Devon!
+- [QuickLock](https://github.com/orwhat-cc/quicklock) Lock your Mac quickly, mind your privacy! (It's my first app, yey!)
 
 ### Network
 - [Gas Mask](https://github.com/2ndalpha/gasmask) The only host manager you need. Thank you Qminder!
