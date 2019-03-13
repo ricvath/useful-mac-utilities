@@ -4,6 +4,9 @@
 >I believe that free content still has value.
 >Respect and support the devs of the listed apps.
 
+### Productivity browser
+- [Franz](https://meetfranz.com) Franz is the app for all your messaging services. Thank you Stefan Malzner!
+- [Station](https://getstation.com) All your web services in one app. (Free for personal use.) Thank you Station!
 
 ### File management
 - [App Cleaner](https://freemacsoft.net/appcleaner/) Uninstall unwanted apps properly. Thank you FreeMacSoft!
@@ -15,7 +18,7 @@
 
 ### Network
 - [Gas Mask](https://github.com/2ndalpha/gasmask) The only host manager you need. Thank you Qminder!
-  - [Steven Black Hosts](https://github.com/StevenBlack/hosts) By the way hosts. The only host collection you need. Thank you Steven Black!
+- [Steven Black Hosts](https://github.com/StevenBlack/hosts) By the way hosts. The only host collection you need. Thank you Steven Black!
 
 ### Media
 - [Adapter](https://macroplant.com/adapter) Converts Video, Audio and Images. Thank you Macroplant!
@@ -26,6 +29,3 @@
 - [Spectacle](https://www.spectacleapp.com) Move and resize windows with ease. Thank you Eric Czarny!
 - [InVisible](http://northernspysoftware.com/software/invisible) Take control of your hidden files, Desktop clutter and the Apple® Color Picker. Thank you NorthernSpy Software.
 - [Coconut Battery](https://www.coconut-flavour.com/coconutbattery/) Battery and system info check on any iDevice. Thank you Chris!
-
-### Messaging
-- [Franz](https://meetfranz.com) All your messaging apps under one app. Thank you Stefan Malzner!
