@@ -32,3 +32,9 @@
 
 ### Notes
 - [Notable](https://github.com/notable/notable/blob/master/README.md) "The markdown-based note-taking app that doesn't suck." Thank you Fabio Spampinato!
+
+
+## Online Tools 
+>The focus is on macOS apps. This is just a tiny addition to the guide.
+- [Color Review](https://color.review/) What you need to know about colors & accessibility.
+
