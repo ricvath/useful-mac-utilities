@@ -1,4 +1,4 @@
-# Useful Mac Apps & Utilities
+# Useful Apps & Utilities for macOS and iOS
 
 >A list of useful (mostly) free / open-source mac applications.
 >Respect and support the devs of the listed apps.
@@ -21,7 +21,6 @@
 
 ### Media
 - [Adapter](https://macroplant.com/adapter) Converts Video, Audio and Images. Thank you Macroplant!
-- [iFunbox](http://www.i-funbox.com) File and App Management Tool for iPhone, iPad & iPod Touch. Thank you Appholly!
 - [ImageOptim](https://imageoptim.com/mac) Compressing images without losing quality. Thank you Kornel Lesiński!
 - [Pngyu](https://nukesaq88.github.io/Pngyu/) A simple PNG compression tool, that use pngquant as a compression engine. Thank you @nukesaq88!
 
@@ -33,6 +32,8 @@
 ### Notes
 - [Notable](https://github.com/notable/notable/blob/master/README.md) "The markdown-based note-taking app that doesn't suck." Thank you Fabio Spampinato!
 
+### iPhone & iOS
+- [iFunbox](http://www.i-funbox.com) File and App Management Tool for iPhone, iPad & iPod Touch. Thank you Appholly!
 
 ## Online Tools 
 >The focus is on macOS apps. This is just a tiny addition to the guide.
