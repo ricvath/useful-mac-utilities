@@ -32,15 +32,19 @@
 
 ### Utilities
 - [Helium](http://heliumfloats.com) Floating browser window that allows you to watch media on top of anything.
+- [Helium](https://rectangleapp.com) Move and resize windows in macOS using keyboard shortcuts or snap areas.
 - [Spectacle](https://www.spectacleapp.com) Move and resize windows with ease.
 - [InVisible](http://northernspysoftware.com/software/invisible) Take control of your hidden files, Desktop clutter and the Apple® Color Picker.
 - [Coconut Battery](https://www.coconut-flavour.com/coconutbattery/) Battery and system info check on any iDevice.
 - [Monolingual](https://ingmarstein.github.io/Monolingual/) Removes unnecessary language resources and saves space.
-- [Monolingual](https://lunar.fyi) Intelligent adaptive brightness for your external monitor.
+- [Lunar](https://lunar.fyi) Intelligent adaptive brightness for your external monitor.
+- [Menu Meters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) Activity monitor that lives in your menubar.
+- [MTMR](https://github.com/toxblh/MTMR) The Touch Bar Customisation App for your MacBook Pro.
 
 ### Text Editor
 - [Atom](https://github.com/atom/atom) Atom is a hackable text editor for the 21st century, built on Electron.
 - [Notable](https://github.com/notable/notable/blob/master/README.md) "The markdown-based note-taking app that doesn't suck."
+- [Notable](https://code.visualstudio.com) Code editing, redefined. From Microsoft!
 
 ### Graphic & Video
 - [Runner](https://sketchrunner.com) Commands to supercharge Sketch workflow.
