@@ -36,16 +36,21 @@
 - [InVisible](http://northernspysoftware.com/software/invisible) Take control of your hidden files, Desktop clutter and the Apple® Color Picker.
 - [Coconut Battery](https://www.coconut-flavour.com/coconutbattery/) Battery and system info check on any iDevice.
 - [Monolingual](https://ingmarstein.github.io/Monolingual/) Removes unnecessary language resources and saves space.
+- [Monolingual](https://lunar.fyi) Intelligent adaptive brightness for your external monitor.
 
 ### Text Editor
 - [Atom](https://github.com/atom/atom) Atom is a hackable text editor for the 21st century, built on Electron.
 - [Notable](https://github.com/notable/notable/blob/master/README.md) "The markdown-based note-taking app that doesn't suck."
 
-### Sketch Plugins
+### Graphic & Video
 - [Runner](https://sketchrunner.com) Commands to supercharge Sketch workflow.
+- [Figma](https://www.figma.com) The Collaborative interface design tool.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) Professional 8K video editing, coloring, visual effects, and post-production in one "free" tool.
+- [Blender](https://www.blender.org/download/) Open source 3D creation. Free for any purpose forever.
 
 ### iPhone & iOS
 - [iFunbox](http://www.i-funbox.com) File and App Management Tool for iPhone, iPad & iPod Touch.
+- [HEIC Converter](https://imazing.com/heic) Let's you convert iOS new photo format to JPG.
 
 ---
 
