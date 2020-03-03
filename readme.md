@@ -32,7 +32,7 @@
 
 ### Utilities
 - [Helium](http://heliumfloats.com) Floating browser window that allows you to watch media on top of anything.
-- [Helium](https://rectangleapp.com) Move and resize windows in macOS using keyboard shortcuts or snap areas.
+- [Rectangle](https://rectangleapp.com) Move and resize windows in macOS using keyboard shortcuts or snap areas.
 - [Spectacle](https://www.spectacleapp.com) Move and resize windows with ease.
 - [InVisible](http://northernspysoftware.com/software/invisible) Take control of your hidden files, Desktop clutter and the Apple® Color Picker.
 - [Coconut Battery](https://www.coconut-flavour.com/coconutbattery/) Battery and system info check on any iDevice.
