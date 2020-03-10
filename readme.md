@@ -51,6 +51,7 @@
 - [Figma](https://www.figma.com) The Collaborative interface design tool.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) Professional 8K video editing, coloring, visual effects, and post-production in one "free" tool.
 - [Blender](https://www.blender.org/download/) Open source 3D creation. Free for any purpose forever.
+- [FontBase](https://fontba.se/) FontBase is the font manager of the new generation, built by designers, for designers.
 
 ### iPhone & iOS
 - [iFunbox](http://www.i-funbox.com) File and App Management Tool for iPhone, iPad & iPod Touch.
