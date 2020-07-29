@@ -45,7 +45,7 @@
 ### Text Editor
 - [Atom](https://github.com/atom/atom) Atom is a hackable text editor for the 21st century, built on Electron.
 - [Notable](https://github.com/notable/notable/blob/master/README.md) "The markdown-based note-taking app that doesn't suck."
-- [Notable](https://code.visualstudio.com) Code editing, redefined. From Microsoft!
+- [Visual Studio](https://code.visualstudio.com) Code editing, redefined. From Microsoft!
 
 ### Graphic & Video
 - [Runner](https://sketchrunner.com) Commands to supercharge Sketch workflow.
