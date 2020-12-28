@@ -6,6 +6,7 @@
 ### Productivity
 - [Clockify](https://clockify.me) Cross platform time tracking and timesheet manager for teams.
 - [itsycal](https://www.mowglii.com/itsycal/) Your calendar in the menubar! Awesome!
+- [Browserosaurus](https://browserosaurus.com/) The browser prompter for Mac.
 
 ### Productivity Browser
 - [Franz](https://meetfranz.com) Franz is the app for all your messaging services.
