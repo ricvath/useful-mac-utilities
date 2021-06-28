@@ -39,7 +39,8 @@
 - [InVisible](http://northernspysoftware.com/software/invisible) Take control of your hidden files, Desktop clutter and the Apple® Color Picker.
 - [Coconut Battery](https://www.coconut-flavour.com/coconutbattery/) Battery and system info check on any iDevice.
 - [Monolingual](https://ingmarstein.github.io/Monolingual/) Removes unnecessary language resources and saves space.
-- [Lunar](https://lunar.fyi) Intelligent adaptive brightness for your external monitor.
+- [Lunar](https://lunar.fyi) Freemium, intelligent adaptive brightness for your external monitor.
+- [Monitorcontrol](https://github.com/MonitorControl/MonitorControl) Open-source, external monitor control via DDC protocol.
 - [Menu Meters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) Activity monitor that lives in your menubar.
 - [MTMR](https://github.com/toxblh/MTMR) The Touch Bar Customisation App for your MacBook Pro.
 
