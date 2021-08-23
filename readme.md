@@ -7,7 +7,7 @@
 - [Clockify](https://clockify.me) Cross platform time tracking and timesheet manager for teams.
 - [itsycal](https://www.mowglii.com/itsycal/) Your calendar in the menubar! Awesome!
 - [Browserosaurus](https://browserosaurus.com/) The browser prompter for Mac.
-- [Tyke] (https://tyke.app/) Notes in your menubar.
+- [Tyke](https://tyke.app/) Notes in your menubar.
 
 ### Productivity Browser
 - [Franz](https://meetfranz.com) Franz is the app for all your messaging services.
@@ -67,25 +67,25 @@
 >The focus is on macOS apps. This is just a tiny addition to the guide.
 
 ### Working remotely
-- [Pitch] (https://pitch.com/) Collaborative presentations.
-- [Loom] (https://www.loom.com/) Video messaging for work.
+- [Pitch](https://pitch.com/) Collaborative presentations.
+- [Loom](https://www.loom.com/) Video messaging for work.
 
 ### Writing
-- [Hemingway Editor] (https://hemingwayapp.com/) It makes your writing bold and clear.
-- [DeepL] (https://www.deepl.com/translator) The world's most accurate translator. Try German, French, Spanish - your text will read like a native speaker.
-- [Gramara] (https://gramara.com/en/) The AI powered grammar checker
+- [Hemingway Editor](https://hemingwayapp.com/) It makes your writing bold and clear.
+- [DeepL](https://www.deepl.com/translator) The world's most accurate translator. Try German, French, Spanish - your text will read like a native speaker.
+- [Gramara](https://gramara.com/en/) The AI powered grammar checker
 
 ### Privacy
 - [Fathom](https://usefathom.com) Websites stats without tracking or storing personal data of your users.
 - [DuckDuckGo](https://duckduckgo.com) The search engine that doesn't track you.
-- [Clicky] (https://clicky.com/) White label web analytics.
+- [Clicky](https://clicky.com/) White label web analytics.
 
 ### Design
-- [Design System Checklist] (https://www.designsystemchecklist.com/) An open-source checklist to help you plan, build and grow your design system.
+- [Design System Checklist](https://www.designsystemchecklist.com/) An open-source checklist to help you plan, build and grow your design system.
 - [Color Review](https://color.review/) What you need to know about colors & accessibility.
-- [Type Scale] (https://type-scale.com/) A visual calculator - easy steps to create great typography.
-- [Heroicons] (https://heroicons.com/) Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
-- [Hero Patterns] (http://www.heropatterns.com/) A collection of repeatable SVG background patterns for you to use on your web projects.
-- [unDraw] (https://undraw.co/) Open-source illustrations for any idea you can imagine and create.
-- [Shotcuts.design] (https://shortcuts.design/) Every shortcuts for designers in one place.
-- [Animockup] (https://animockup.com/) Free animated mockup maker.
+- [Type Scale](https://type-scale.com/) A visual calculator - easy steps to create great typography.
+- [Heroicons](https://heroicons.com/) Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [Hero Patterns](http://www.heropatterns.com/) A collection of repeatable SVG background patterns for you to use on your web projects.
+- [unDraw](https://undraw.co/) Open-source illustrations for any idea you can imagine and create.
+- [Shotcuts.design](https://shortcuts.design/) Every shortcuts for designers in one place.
+- [Animockup](https://animockup.com/) Free animated mockup maker.
