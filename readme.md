@@ -4,6 +4,7 @@
 >Please support the devs of the listed apps if you have the means.
 
 ### Productivity
+- [Raycast](https://www.raycast.com/) Speed up your workflow with macOS Spotlight on superpowers, inspired by command line interfaces.
 - [Clockify](https://clockify.me) Cross platform time tracking and timesheet manager for teams.
 - [itsycal](https://www.mowglii.com/itsycal/) Your calendar in the menubar! Awesome!
 - [Browserosaurus](https://browserosaurus.com/) The browser prompter for Mac.
