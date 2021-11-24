@@ -9,8 +9,6 @@
 - [itsycal](https://www.mowglii.com/itsycal/) Your calendar in the menubar! Awesome!
 - [Browserosaurus](https://browserosaurus.com/) The browser prompter for Mac.
 - [Tyke](https://tyke.app/) Notes in your menubar.
-
-### Productivity Browser
 - [Franz](https://meetfranz.com) Franz is the app for all your messaging services.
 - [Station](https://getstation.com) All your web services in one app. (Free for personal use)
 
@@ -33,6 +31,9 @@
 - [ImageOptim](https://imageoptim.com/mac) Compressing images without losing quality.
 - [Pngyu](https://nukesaq88.github.io/Pngyu/) A simple PNG compression tool, that use pngquant as a compression engine.
 - [Handbrake](https://handbrake.fr) Multi-platform video transcoder.
+- [OBS](https://obsproject.com/) Free and open source software for video recording and live streaming.
+- [Keycastr](https://github.com/keycastr/keycastr) Open-source keystroke visualizer.
+
 
 ### Utilities
 - [Helium](http://heliumfloats.com) Floating browser window that allows you to watch media on top of anything.
@@ -41,7 +42,6 @@
 - [InVisible](http://northernspysoftware.com/software/invisible) Take control of your hidden files, Desktop clutter and the Apple® Color Picker.
 - [Coconut Battery](https://www.coconut-flavour.com/coconutbattery/) Battery and system info check on any iDevice.
 - [Monolingual](https://ingmarstein.github.io/Monolingual/) Removes unnecessary language resources and saves space.
-- [Lunar](https://lunar.fyi) Freemium, intelligent adaptive brightness for your external monitor.
 - [Monitorcontrol](https://github.com/MonitorControl/MonitorControl) Open-source, external monitor control via DDC protocol.
 - [Menu Meters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) Activity monitor that lives in your menubar.
 - [MTMR](https://github.com/toxblh/MTMR) The Touch Bar Customisation App for your MacBook Pro.
