@@ -33,9 +33,11 @@
 - [Handbrake](https://handbrake.fr) Multi-platform video transcoder.
 - [OBS](https://obsproject.com/) Free and open source software for video recording and live streaming.
 - [Keycastr](https://github.com/keycastr/keycastr) Open-source keystroke visualizer.
-
+- [Balance Lock](https://www.tunabellysoftware.com/balance_lock/) Prevents Audio balance from drifting L or R when you connect to your bluetooth headphones.
+- [KAP](https://getkap.co/) An open-source screen recorder built with web-technologies.
 
 ### Utilities
+- [LANDrop](https://landrop.app/) Drop any files to any devices on your LAN. Win <> macOS <> Android <> iOS.
 - [Helium](http://heliumfloats.com) Floating browser window that allows you to watch media on top of anything.
 - [Rectangle](https://rectangleapp.com) Move and resize windows in macOS using keyboard shortcuts or snap areas.
 - [Spectacle](https://www.spectacleapp.com) Move and resize windows with ease.
@@ -57,10 +59,12 @@
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) Professional 8K video editing, coloring, visual effects, and post-production in one "free" tool.
 - [Blender](https://www.blender.org/download/) Open source 3D creation. Free for any purpose forever.
 - [FontBase](https://fontba.se/) FontBase is the font manager of the new generation, built by designers, for designers.
+- [PenPot](https://penpot.app/) Web-based open source design and prototyping platform
 
 ### iPhone & iOS
 - [iFunbox](http://www.i-funbox.com) File and App Management Tool for iPhone, iPad & iPod Touch.
 - [HEIC Converter](https://imazing.com/heic) Let's you convert iOS new photo format to JPG.
+- 
 
 ---
 
