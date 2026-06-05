@@ -13,6 +13,7 @@
 
 ### File management
 - [App Cleaner](https://freemacsoft.net/appcleaner/) Uninstall unwanted apps properly.
+- [Dusty](https://toprak.sh/dusty/) Preview and reclaim caches, logs, and developer leftovers from the menu bar.
 - [Keka](https://www.keka.io/en/) The macOS file archiver. Thank you aone!
 - [Clipger](https://florian.github.io/clipgerapp/) Ultimate clipboard manager!
 - [Forklift](https://binarynights.com) Advanced dual pane file manager. (There's no time limit in trial mode!)
