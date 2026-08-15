@@ -49,6 +49,7 @@
 - [Monitorcontrol](https://github.com/MonitorControl/MonitorControl) Open-source, external monitor control via DDC protocol.
 - [Menu Meters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) Activity monitor that lives in your menubar.
 - [MTMR](https://github.com/toxblh/MTMR) The Touch Bar Customisation App for your MacBook Pro.
+- [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) macOS utility for cleaning caches, temporary files, app leftovers, and duplicate files, with disk analysis and app uninstallation.
 
 ### Text Editor
 - [Notable](https://github.com/notable/notable/blob/master/README.md) "The markdown-based note-taking app that doesn't suck."
