@@ -21,6 +21,7 @@
 - [QLCodec](https://github.com/Oil3/QLCodec) Quick Look support webm, mkv and other special video formats!
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown) Quick Look support for Markdown files
 
+- [Glim](https://github.com/NeoPanic/Glim) Free, open-source macOS viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
 
 ### Network
 - [Gas Mask](https://github.com/2ndalpha/gasmask) The only host manager you need.
