@@ -47,6 +47,7 @@
 - [Coconut Battery](https://www.coconut-flavour.com/coconutbattery/) Battery and system info check on any iDevice.
 - [Monolingual](https://ingmarstein.github.io/Monolingual/) Removes unnecessary language resources and saves space.
 - [Monitorcontrol](https://github.com/MonitorControl/MonitorControl) Open-source, external monitor control via DDC protocol.
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) Open-source menu bar utility that puts windows back on their original external monitor, Space, and position when reconnected.
 - [Menu Meters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) Activity monitor that lives in your menubar.
 - [MTMR](https://github.com/toxblh/MTMR) The Touch Bar Customisation App for your MacBook Pro.
 
